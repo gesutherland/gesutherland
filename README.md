@@ -25,6 +25,7 @@
 [![f=Python](https://img.shields.io/badge/python-FF69B4?style=for-the-badge&logo=python)](https://github.com/gesutherland)
 [![f=Javascript](https://img.shields.io/badge/javascript-FFA9D4?style=for-the-badge&logo=javascript)](https://github.com/gesutherland)
 [![f=C](https://img.shields.io/badge/c-FF69B4?style=for-the-badge&logo=c)](https://github.com/gesutherland)
+[![f=Tailwind](https://img.shields.io/badge/Tailwind-FFA9D4?style=for-the-badge&logo=Tailwind)](https://github.com/gesutherland)
 
 ### App Development
 [![f=Android](https://img.shields.io/badge/android-FF69B4?style=for-the-badge&logo=android)](https://github.com/gesutherland)
