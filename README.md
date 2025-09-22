@@ -12,30 +12,32 @@
 > $${ \color{#E0B0FF} Follow \space along \space to \space be \space a \space part \space of \space my \space programming \space journey! \space }$$
 
 ###### Experience Key
-[![f=Flutter](https://img.shields.io/badge/★★★☆☆-FF69B4?style=for-the-badge)](https://github.com/gesutherland)
+[![f=Flutter](https://img.shields.io/badge/★★★★☆-FF69B4?style=for-the-badge)](https://github.com/gesutherland)
 [![f=React](https://img.shields.io/badge/★★★☆☆-FFA9D4?style=for-the-badge)](https://github.com/gesutherland)
 
 
 ### Frameworks
-[![f=Django](https://img.shields.io/badge/django-FF69B4?style=for-the-badge&logo=django)](https://github.com/gesutherland)
+[![f=Svelte](https://img.shields.io/badge/svelte-FF69B4?style=for-the-badge&logo=svelte)](https://github.com/gesutherland)
 [![f=React](https://img.shields.io/badge/react-FFA9D4?style=for-the-badge&logo=react)](https://github.com/gesutherland)
 [![f=Flask](https://img.shields.io/badge/flask-FFA9D4?style=for-the-badge&logo=flask)](https://github.com/gesutherland)
 
 ### Languages
 [![f=Python](https://img.shields.io/badge/python-FF69B4?style=for-the-badge&logo=python)](https://github.com/gesutherland)
-[![f=Javascript](https://img.shields.io/badge/javascript-FFA9D4?style=for-the-badge&logo=javascript)](https://github.com/gesutherland)
-[![f=C](https://img.shields.io/badge/c-FF69B4?style=for-the-badge&logo=c)](https://github.com/gesutherland)
+[![f=Javascript](https://img.shields.io/badge/javascript-FF69B4style=for-the-badge&logo=javascript)](https://github.com/gesutherland)
+[![f=C](https://img.shields.io/badge/c-FFA9D4?style=for-the-badge&logo=c)](https://github.com/gesutherland)
+[![f=Java](https://img.shields.io/badge/java-FF69B4?style=for-the-badge&logo=java)](https://github.com/gesutherland)
+[![f=HTML](https://img.shields.io/badge/css-FF69B4?style=for-the-badge&logo=css)](https://github.com/gesutherland)
 
 ### App Development
 [![f=Android](https://img.shields.io/badge/android-FF69B4?style=for-the-badge&logo=android)](https://github.com/gesutherland)
-[![f=iOS](https://img.shields.io/badge/ios-FF69B4?style=for-the-badge&logo=ios)](https://github.com/gesutherland)
+[![f=iOS](https://img.shields.io/badge/ios-FFA9D4?style=for-the-badge&logo=ios)](https://github.com/gesutherland)
 [![f=Web](https://img.shields.io/badge/web-FF69B4?style=for-the-badge&logo=internetcomputer)](https://github.com/gesutherland)
 
 
 ### UX/UI
 [![f=AdobeXD](https://img.shields.io/badge/adobexd-FFA9D4?style=for-the-badge&logo=adobexd)](https://github.com/gesutherland)
 [![f=Figma](https://img.shields.io/badge/figma-FF69B4?style=for-the-badge&logo=figma)](https://github.com/gesutherland)
-[![f=Wix](https://img.shields.io/badge/wix-FFA9D4?style=for-the-badge&logo=wix)](https://github.com/gesutherland)
+[![f=Wix](https://img.shields.io/badge/wix-FF69B4?style=for-the-badge&logo=wix)](https://github.com/gesutherland)
 
 
 > $${ \color{#F8C8DC} ♡⋆⭒˚｡⋆ \space Credit \space to \space Fatima2003 \space for \space the \space ReadMe \space inspo \space ⋆｡˚⭒⋆♡}$$
