@@ -23,7 +23,7 @@
 
 ### Languages
 [![f=Python](https://img.shields.io/badge/python-FF69B4?style=for-the-badge&logo=python)](https://github.com/gesutherland)
-[![f=Javascript](https://shields.io/badge/JavaScript-FF69B4?logo=JavaScript&logoColor=000&style=flat-square)](https://github.com/gesutherland)
+[![f=Javascript](https://shields.io/badge/JavaScript-FF69B4?logo=JavaScript&logoColor=000)](https://github.com/gesutherland)
 [![f=C](https://img.shields.io/badge/c-FFA9D4?style=for-the-badge&logo=c)](https://github.com/gesutherland)
 [![f=Java](https://img.shields.io/badge/java-FF69B4?style=for-the-badge&logo=java)](https://github.com/gesutherland)
 [![f=HTML](https://img.shields.io/badge/css-FF69B4?style=for-the-badge&logo=css)](https://github.com/gesutherland)
