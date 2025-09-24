@@ -38,6 +38,7 @@
 [![f=AdobeXD](https://img.shields.io/badge/adobexd-FFA9D4?style=for-the-badge&logo=adobexd)](https://github.com/gesutherland)
 [![f=Figma](https://img.shields.io/badge/figma-FF69B4?style=for-the-badge&logo=figma)](https://github.com/gesutherland)
 [![f=Wix](https://img.shields.io/badge/wix-FF69B4?style=for-the-badge&logo=wix)](https://github.com/gesutherland)
+[![f=Canva](https://img.shields.io/badge/canva-FF69B4?style=for-the-badge&logo=canva)](https://github.com/gesutherland)
 
 
 > $${ \color{#F8C8DC} ♡⋆⭒˚｡⋆ \space Credit \space to \space Fatima2003 \space for \space the \space ReadMe \space inspo \space ⋆｡˚⭒⋆♡}$$
