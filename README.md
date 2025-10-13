@@ -5,7 +5,7 @@
 >
 > $${ \color{#E37383} Alongside \space my \space programming \space assignments \space for \space school, \space I \space love \space to \space code \space small \space projects \space in \space my \space spare \space time\space °❀⋆.ೃ࿔ੈ✩‧₊˚   }$$
 > 
-> $${ \color{#FFC0CB}  ༘˚⋆𐙚｡ \space \color{#F8C8DC} I'm \space \space planning \space to \space get \space my \space Bachelors \space in \space CS \space and \space concentrate \space in \space AI \space and \space ML }$$
+> $${ \color{#FFC0CB}  ༘˚⋆𐙚｡ \space \color{#F8C8DC} I'm \space \space getting \space my \space Bachelors \space in \space CS \space and \space concentrating \space in \space ML \space and \space bioengineering }$$
 >
 > $${ \color {#E37383} My \space interests \space include \space ML, \space Web \space Design, \space and \space Full \space Stack \space Development, \space   }$$
 > 
